@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 - [ X] **The list displays a list of data fetched using an API call**
 - [X ] **Data uses the useEffect React hook and async/await syntax**
 - [ X] **The app dashboard includes at least three summary statistics about the data such as**
-  - [ ] *insert details*
+  - [X] current weather, city/ country , daily wether description in dash board
 - [ X] **A search bar allows the user to search for an item in the fetched data**
 - [ ] **Multiple different filters (2+) allow the user to filter items in the database by specified categories**
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/ul7VoBb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+'https://imgur.com/a/ul7VoBb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 https://imgur.com/a/ul7VoBb  VIDEO GIF
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...
